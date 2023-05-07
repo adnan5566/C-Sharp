@@ -1,0 +1,33 @@
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\6th Semester\C# Project\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adnan\Downloads\Basic Calculator\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adnan\OneDrive\Desktop\Basic_Calculator_(Adnan)\Basic Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
