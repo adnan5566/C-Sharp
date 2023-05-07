@@ -1,0 +1,39 @@
+E:\C#\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\C#\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\C#\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\C#\Library Management System\Library Management System\obj\Debug\LMS.csproj.AssemblyReference.cache
+E:\C#\Library Management System\Library Management System\obj\Debug\LMS.csproj.SuggestedBindingRedirects.cache
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Login.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\LMS.csproj.GenerateResource.cache
+E:\C#\Library Management System\Library Management System\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Admin.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Add_New_Books.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Add_New_Member.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Details.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Staff_Details.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Staff.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Student_Details.resources
+E:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Student.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\LMS.csproj.AssemblyReference.cache
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\LMS.csproj.SuggestedBindingRedirects.cache
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.Add_New_Books.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.Add_New_Member.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.AdminDashBoard.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.Login.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.StaffDashBoard.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.StaffDetails.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.StudentDashBoard.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.Student_Details.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.BookDetails.resources
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\LMS.csproj.GenerateResource.cache
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\C#\Library Management System--------------------\Library Management System\Library Management System\obj\Debug\Library_Management_System.AddNewStaff.resources
